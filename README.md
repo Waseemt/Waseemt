@@ -1,8 +1,7 @@
 # Waseem Tafesh
 
 **Data Scientist | ML Engineer | Business Intelligence**  
-Duke MQM '25 | Ex-Amazon, Ex-Bank of America
-
+Duke MQM '25
 ---
 
 ## About Me
@@ -20,22 +19,21 @@ Currently seeking **Data Scientist**, **ML Engineer**, and **Business Intelligen
 
 ## Featured Projects
 
-### 🔒 [Weapon Classification System](https://github.com/Waseemt/vision-risk-classification)
+### Weapon Classification System](https://github.com/Waseemt/vision-risk-classification)
 Production-grade PyTorch pipeline for safe vs unsafe image classification with transfer learning (ResNet/VGG). Includes failure analysis, confusion matrices, and deployment considerations for security applications.
 
 **Tech:** PyTorch, ResNet, Transfer Learning, Computer Vision
 
-### 🏀 [NBA Injury Prediction](https://github.com/Waseemt/nba-injury-prediction)
+### NBA Injury Prediction](https://github.com/Waseemt/nba-injury-prediction)
 XGBoost-based injury prediction model with financial impact analysis for NBA teams and fantasy sports. Features hyperparameter tuning, cross-validation, and business-focused evaluation metrics.
 
 **Tech:** R, XGBoost, tidyverse, Sports Analytics
 
 ## Experience
 
-**Amazon** – Production Line Simulation & Optimization  
-**Bank of America** – Business Intelligence & Data Analytics  
-**Duke Fuqua** – PM x AI Case Competition Winner (Team Lead)
-
+**Alteryx** – Sales Strategy Intern
+**One Stop Shop Electronics** – Multistore Manager
+**Spark Hospitality** – Managing Partner & Co-founder
 ## What I'm Working On
 
 - Building recruiter-ready ML projects with production-grade code structure
